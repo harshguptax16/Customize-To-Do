@@ -1,0 +1,6 @@
+{
+  "name": "Advance To-Do Portal",
+  "description": "An advanced to-do web portal to plan tasks effectively with calendar events, daily clock schedules, priority lists, peer reward rankings, telegram-style community chats, and milestone report portfolios.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
